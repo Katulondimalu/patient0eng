@@ -83,7 +83,10 @@ const Game2 = ({ onNext }) => {
         ]}
         onNext={onNext}
       />
-
+         Walk from the intersection of the church and Tulpstraat towards the apothecary (apotheek). 
+          Take the first left and then immediately right. Then take the second right. Walk straight 
+          until the pub is on the left, turn right here. Turn left into the second street. On this 
+          street is the building.
       <div
         style={{
           flex: 1,
@@ -101,6 +104,7 @@ const Game2 = ({ onNext }) => {
             previous_media_dialog.current.showModal();
           }}
         >
+ 
           {t('Video')}
         </button>
         <div style={{ width: 16 }} />
