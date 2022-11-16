@@ -66,7 +66,7 @@ const LeaderBoard = ({ to, scoreboard }) => {
         {!scoreboard && (
           <>
             <LeaderBoardText>
-              {t('Your Time')}
+              {('Your Time ')}
               {roomData &&
                 roomData.currentRoom &&
                 format(
@@ -75,11 +75,11 @@ const LeaderBoard = ({ to, scoreboard }) => {
                 )}
             </LeaderBoardText>
             <LeaderBoardText>
-              {t('Rank')} #{roomData && roomData.roomIndex}
+              {('Rank')} #{roomData && roomData.roomIndex}
             </LeaderBoardText>
           </>
         )}
-        <LeaderBoardHeadingText>{t('Daily Leadrboard')}</LeaderBoardHeadingText>
+        <LeaderBoardHeadingText>{('Daily Leaderboard')}</LeaderBoardHeadingText>
         <Whitespace height={6} />
         {rooms.length > 0 ? (
           <TableContainer
@@ -93,9 +93,9 @@ const LeaderBoard = ({ to, scoreboard }) => {
             <Table size='small' aria-label='a dense table' stickyHeader>
               <TableHead>
                 <TableRow sx={{ 'th,tr,td': {} }}>
-                  <TableCell align='left'>{t('Rank')}</TableCell>
-                  <TableCell align='center'>{t('Name')}</TableCell>
-                  <TableCell align='center'>{t('Time')}</TableCell>
+                  <TableCell align='left'>{('Rank')}</TableCell>
+                  <TableCell align='center'>{('Name')}</TableCell>
+                  <TableCell align='center'>{('Time')}</TableCell>
                 </TableRow>
               </TableHead>
               <TableBody>
@@ -163,11 +163,11 @@ const LeaderBoard = ({ to, scoreboard }) => {
             </Table>
           </TableContainer>
         ) : (
-          <NoRoomContainer>{t('No rooms found for today')}</NoRoomContainer>
+          <NoRoomContainer>{('No rooms found for today')}</NoRoomContainer>
         )}
       </LeaderBoardWrapper>
       <Whitespace height={16} />
-      <button onClick={() => navigate(to)}>{t('Continue')}</button>
+      <button onClick={() => navigate(to)}>{('Continue')}</button>
     </div>
   );
 };

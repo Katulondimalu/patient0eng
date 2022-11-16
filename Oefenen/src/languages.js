@@ -220,7 +220,7 @@ export let translations = {
     nl: 'Dagelijks klassement',
   },
   'Your Time': {
-    nl: 'Je tijd ',
+    nl: 'Your Time ',
   },
   Skip: {
     nl: 'Skip',
