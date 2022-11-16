@@ -41,34 +41,31 @@ const Instructions = ({ onNext }) => {
           arginBottom: 25,
         }}
       >
-        <InstructionStep>Stap 1.</InstructionStep>
-        <InstructionContent>Luister goed naar de host. Deze zal gezamenlijk het spel 
-          starten. Ga nog niet verder met de volgende stap, want bij de volgende stap begint de tijd te lopen.</InstructionContent>
-        <InstructionStep>Stap 2.</InstructionStep>
+  <InstructionStep>Step 1.</InstructionStep>
+        <InstructionContent> Listen carefully to the host. This one will jointly 
+          start the game. Do not proceed to the next step yet, because at the next step, time will start running.</InstructionContent>
+        <InstructionStep>Step 2.</InstructionStep>
         <InstructionContent>
-        Elk team heeft één teamcaptain. Deze houdt de telefoon vast en zorgt ervoor dat iedereen 
-        de opdrachten goed hoort.
-        </InstructionContent>
-        <InstructionStep>Stap 3.</InstructionStep>
+        Each team has one team captain. This one holds the phone and makes sure everyone hears the commands properly.        </InstructionContent>
+        <InstructionStep>Step 3.</InstructionStep>
         <InstructionContent>
-        In elk level van de game vind je een streepjescode. De teamcaptain scant deze streepjescode 
-        met de camera van het mobieltje.  Lukt het niet de streepjescode te scannen, vul dan het 
-        nummer in dat je er onder ziet staan.
-        </InstructionContent>
-        <InstructionStep>Stap 4.</InstructionStep>
+        In each level of the game, you will find a barcode. The team captain scans this barcode 
+        with the camera of the mobile phone.  If you cannot scan the barcode, enter the number 
+        number below.        </InstructionContent>
+        <InstructionStep>Step 4.</InstructionStep>
         <InstructionContent>
-        Forceer niks, hou alles goed bij elkaar en speel goed samen. Dan ben je een stap dichter bij 
-        het redden van moeder aarde.
-        </InstructionContent>
+        Don't force anything, keep everything together and play well together. Then you will be one step closer to 
+        solving the riddles.        </InstructionContent>
         <InstructionContent>
           <img src={assets.images.common?.StartInstruction} alt='' />
         </InstructionContent>
         <InstructionContent>
-          Ben je er klaar voor? Vanaf het volgende scherm start de tijd! Succes!
+          Are you ready? Time starts from the next screen! Good luck!
         </InstructionContent>
         <Whitespace height={16} />
         <button onClick={onNext}>{t('Continue')}</button>
         <Whitespace height={16} />
+
       </div>
     </div>
   );
