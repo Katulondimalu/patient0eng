@@ -41,7 +41,7 @@ export let translations = {
     nl: 'Listen to the message to continue to the next step.',
   },
   'Skip video': {
-    nl: 'geluidsfragment overslaan',
+    nl: 'Skip Instructions',
   },
   Video: {
     nl: 'geluidsfragment',
