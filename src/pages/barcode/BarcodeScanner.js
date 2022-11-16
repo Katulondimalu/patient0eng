@@ -99,7 +99,7 @@ const BarcodeScanner = ({ codes, onNext }) => {
       <Stack spacing={2} direction='row' sx={{ margin: '0 1rem' }}>
         <TextField
           id='standard-basic'
-          label={t('Streepjescode invullen')}
+          label={t('write code...')}
           variant='standard'
           margin='dense'
           name='team_name'

@@ -205,7 +205,7 @@ export let translations = {
     nl: 'Verzenden',
   },
   'write barcode...': {
-    nl: 'streepjescode invullen...',
+    nl: 'write code...',
   },
   Rank: {
     nl: 'Rang',
