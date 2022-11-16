@@ -140,7 +140,7 @@ export let translations = {
     nl: 'Opruim instructies:',
   },
   CleanUpText1: {
-    nl: 'Leg de puzzels terug in de GamifiCase en breng de case terug naar de service balie',
+    nl: 'A task for the real warriors. Can you manage to get the items all back in the box and get the box closed again? We would love you for that! 🥰',
   },
   'Snap a picture': {
     nl: 'Maak een foto',

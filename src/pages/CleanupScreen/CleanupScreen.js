@@ -35,15 +35,7 @@ const CleanupScreen = ({ to }) => {
         >
           {assets.images.cleanups?.map((icon, i) => (
             <div key={i}>
-              <img
-                src={icon}
-                style={{
-                  width: '100%',
-                  objectFit: 'contain',
-                  borderRadius: 10,
-                }}
-                alt='icon'
-              />
+
               <div style={{ width: '100%', objectFit: 'contain' }}>
                 {t('CleanUpText1')}
                 <p>&nbsp;</p>
@@ -58,7 +50,7 @@ const CleanupScreen = ({ to }) => {
               navigate(`${to}`);
             }}
           >
-            {t('Done')}
+            {('Done')}
           </button>
         )}
         <Whitespace height={16} />
