@@ -57,7 +57,7 @@ const SelfieAndPostScreen = ({ to }) => {
         }}
       >
         <h2 style={{ margin: 0 }}>
-          {t('Maak het glorieuze moment van slagen een herinnering. Selfietime!')}
+          {('Make the glorious moment of success a memory. Selfietime!')}
         </h2>
         <Whitespace height={16} />
         {file_and_dataurl == null ? (
@@ -76,7 +76,7 @@ const SelfieAndPostScreen = ({ to }) => {
           >
             <PhotoCamera />
             <div style={{ width: 8 }} />
-            <div>{t('Snap a picture')}</div>
+            <div>{('Snap a picture')}</div>
           </div>
         ) : image !== null ? (
           <ReactImageProcess
@@ -138,7 +138,7 @@ const SelfieAndPostScreen = ({ to }) => {
                 >
                   <IosShare />
                   <div style={{ width: 8 }} />
-                  {t('Share Picture')}
+                  {('Share Picture')}
                 </div>
               </span>
             )}
@@ -168,7 +168,7 @@ const SelfieAndPostScreen = ({ to }) => {
         
         <Whitespace height={25} />
         <button onClick={() => navigate(`${to}`)}>
-          {t('Cleanup Instructions')}
+          {('Cleanup Instructions')}
         </button>
       </div>
     </div>
