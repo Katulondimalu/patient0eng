@@ -24,7 +24,7 @@ const StartInstruction = ({ onNext }) => {
     >
       <DevButton onClick={onNext} />
       <Whitespace height={16} />
-      <InstructionHeader>Start Instructies</InstructionHeader>
+      <InstructionHeader>Start Instructions</InstructionHeader>
       <div
         style={{
           //paddingTop:25,
