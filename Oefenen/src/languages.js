@@ -166,7 +166,7 @@ export let translations = {
       nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Mediamarkt%2FVERRASSING%20VAN%20STICHTING%20BIO%20(1).mp4?alt=media&token=b5b795e0-a72f-4e49-a1a3-617daa6ce902',
     },
   'Scan the correct QR code to continue': {
-    nl: 'Scan de juiste streepjescode om verder te gaan',
+    nl: 'Scan the correct code to continue',
   },
   CleanUpText1: {
     nl: 'Leg de puzzels terug in de GamifiCase en breng de case terug naar de service balie',
@@ -190,7 +190,7 @@ export let translations = {
     nl: 'straf voor het gebruik van hints!',
   },
   'Scan the right bar code or scan the number': {
-    nl: 'Scan de juiste streepjescode of voer het nummer in van het juiste product',
+    nl: 'Scan the correct code or fill in the code to continue',
   },
   'Wrong code': {
     nl: 'Foutieve code',
