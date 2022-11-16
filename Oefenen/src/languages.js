@@ -38,7 +38,7 @@ export let translations = {
     nl: 'Als je geen ster aan de hemel kunt zijn, wees dan een lampje in je huis.',
   },
   'Watch the video to continue to the next step.': {
-    nl: 'Luister naar het geluidsfragment om door te gaan naar de volgende stap.',
+    nl: 'Listen to the message to continue to the next step.',
   },
   'Skip video': {
     nl: 'Geluidsfragment overslaan',
