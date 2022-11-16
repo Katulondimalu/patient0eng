@@ -29,7 +29,7 @@ export let translations = {
     nl: 'Deel spel',
   },
   'Waiting for camera...': {
-    nl: 'Wachten op camera...',
+    nl: 'Waiting for camera...',
   },
   'Enter Phone Number': {
     nl: 'Voer telefoonnummer in',
