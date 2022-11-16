@@ -68,7 +68,7 @@ const SplashScreen = () => {
         }}
       >
         <button className='outline' onClick={() => navigate('/score-today')}>
-          {t('Scoreboard')}
+          {('Scoreboard')}
         </button>
         <div style={{ width: 16 }} />
         <button
@@ -76,7 +76,7 @@ const SplashScreen = () => {
             navigate('play' + window.location.search);
           }}
         >
-          {t('Enter')}
+          {('Enter')}
         </button>
       </div>
     </div>

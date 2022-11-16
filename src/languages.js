@@ -11,16 +11,16 @@ export let translations = {
     nl: 'Patient 0',
   },
   Enter: {
-    nl: 'Verder',
+    nl: 'Enter',
   },
   'Team Name': {
-    nl: 'Team Naam',
+    nl: 'Team Name',
   },
   'Scan the qr code below to play on your own phone.': {
     nl: "Medespelers kunnen deze  QR code scannen om geluidsfragmenten mee te luisteren op hun eigen telefoon. Wanneer iedereen de QR code heeft gescand kun je het spel starten. LET OP: je hebt vanaf dan 20 minuten de de game te spelen.",
   },
   'Choose a team name': {
-    nl: 'Kies een teamnaam',
+    nl: 'Choose a team name',
   },
   'Start Game': {
     nl: 'Start Spel',
@@ -130,7 +130,7 @@ export let translations = {
     nl: 'De code is van lings naar rechts 9268',
   },
   Continue: {
-    nl: 'Verder',
+    nl: 'Continue',
   },
   'The code of the next box is:': {
     nl: 'De code van het volgende vak is:',

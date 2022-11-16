@@ -11,7 +11,7 @@ export let translations = {
     nl: 'Patient 0',
   },
   Enter: {
-    nl: 'Verder',
+    nl: 'Enter',
   },
   'Team Name': {
     nl: 'Teamnaam',
@@ -112,7 +112,7 @@ export let translations = {
     nl: 'Zoek de Microsoft Surface Go',
   },
   Continue: {
-    nl: 'Verder',
+    nl: 'Continue',
   },
   'The code of the next box is:': {
     nl: 'De code van het volgende vak is:',
