@@ -75,60 +75,61 @@ export let translations = {
   'Bring back the box': {
     nl: 'Breng de GamifiCase terug',
   },
-  hintText_1a: {
-    nl: 'Je ziet onder 5 kleuren staan. Welke kleurcombinaties van boven heb je nodig om de kleuren onder te krijgen?',
+  tText_1a: {
+    nl: 'You see 5 colours below. Which colour combinations from above do you need to get the colours below?',
   },
   hintText_1b: {
-    nl: 'De eerste kleur is roze. Roze is rood en wit. Wanneer je rood en wit bij elkaar doet krijg je de A. Ga verder met groen.',
+    nl: 'The first colour is pink. Pink is red and white. When you put red and white together you get the A. Continue with green.',
   },
   hintText_1c: {
-    nl: 'De code is: AHIEA',
+    nl: 'The code is AHIEA',
   },
   hintText_2a: {
-    nl: 'Luister goed naar de gesproken tekst. Daarin hoor je de route die je moet lopen',
+    nl: 'Read the text carefully. There you read the route how you must walk.',
   },
   hintText_2b: {
-    nl: 'Heb je de straat gevonden? Streep op de achterkant van de kaart de letters weg van de straat in de tekst.',
+    nl: 'Have you found the street? Under the map, cross out the letters from the street in the text.',
   },
   hintText_2c: {
-    nl: 'De Code is: 255',
+    nl: 'The Code is: 255',
   },
   hintText_3a: {
-    nl: 'Op de kaart staat even omhoog',
+    nl: 'The card reads: equal up',
   },
   hintText_3b: {
-    nl: 'Er is een Streepjescode die niet werkt voor de box. zet die streepjescode naast de kaart met even omhoog. Doe vervolgens de even getallen die overeen komen met de tekens op een van de boxjes omhoog. ',
+    nl: 'Look at the barcode in the app. Put that barcode next to the card with equal up. Then put up the equal numbers that correspond to the characters on one of the boxes.',
   },
   hintText_3c: {
-    nl: 'De coade is: omlaag, omhoog, omlaag, omhoog, omlaag, omlaag, omhoog, omhoog, omlaag, omhoog',
+    nl: 'The code is: down, up, down, up, down, down, up, up, down, up',
   },
   hintText_4a: {
-    nl: 'Zet de juiste mensen op de juiste plaats',
+    nl: 'Put the right people in the right place',
   },
   hintText_4b: {
-    nl: 'Leg de kaartjes ook daadwerkelijk op de kaart, dit maakt het makkelijker.',
+    nl: 'Actually put the cards on the map, this makes it easier.',
   },
   hintText_4c: {
-    nl: 'De code is 620943, gebruk de magneet op het volgene doosje open te maken.',
+    nl: ' The code is 620943, use the magnet to open the following box.',
   },
   hintText_5a: {
-    nl: 'Bekijk de 1en en 0en. Zie je daar een patroon in?',
+    nl: 'Look at the 1s and 0s. Do you see a pattern in them?',
   },
   hintText_5b: {
-    nl: 'Wanneer je de 1en volgt zie je een patroon bestaand uit 4 cijfers.',
+    nl: 'When you follow the 1s you see a pattern consisting of four digits.',
   },
   hintText_5c: {
-    nl: 'De code van het volgende slot is 7034',
+    nl: 'The code of the next lock is 7034',
   },
   hintText_6a: {
-    nl: 'Kijk op het kistje naar de afbeelding.',
+    nl: 'Look at the picture on the box.',
   },
   hintText_6b: {
-    nl: 'Start met de hoeken van 45 graden, werk vanuit daar verder',
+    nl: 'Start with the 45-degree angles, work from there',
   },
   hintText_6c: {
-    nl: 'De code is van lings naar rechts 9268',
+    nl: 'The code is from left to right 9268',
   },
+
   Continue: {
     nl: 'Continue',
   },
