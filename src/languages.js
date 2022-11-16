@@ -256,7 +256,7 @@ export let translations = {
     nl: 'Je tijd ',
   },
   Skip: {
-    nl: 'Overslaan',
+    nl: 'Skip',
   },
   'something is wrong!': {
     nl: 'er is iets fout!',
