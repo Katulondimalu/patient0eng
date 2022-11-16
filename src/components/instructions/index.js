@@ -24,10 +24,9 @@ const Instructions = ({ onNext }) => {
     >
       <DevButton onClick={onNext} />
       <Whitespace height={16} />
-      <InstructionHeader>Start Instructies</InstructionHeader>
+      <InstructionHeader>Start Instructions</InstructionHeader>
       <InstructionContent>
-        Je gaat je Patient 0 zoeken door samen met je team een aantal inventieve puzzels op te lossen. 
-        Daarvoor heb ik een aantal stappen om je op weg te helpen.
+      During the game, please follow the following steps:
         </InstructionContent>
       <div
         style={{
