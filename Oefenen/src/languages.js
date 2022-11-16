@@ -202,10 +202,10 @@ export let translations = {
     nl: 'Camera toegang geweigerd',
   },
   Submit: {
-    nl: 'Verzenden',
+    nl: 'Submit',
   },
   'write barcode...': {
-    nl: 'streepjescode invullen...',
+    nl: 'write code...',
   },
   Rank: {
     nl: 'Rang',
