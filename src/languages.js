@@ -53,7 +53,7 @@ export let translations = {
     nl: 'Klik om de hint te ontgrendelen, dat zal',
   },
   minutes: {
-    nl: 'minuten',
+    nl: 'minutes',
   },
   'to your score.': {
     nl: 'aan je score toevoegen.',
@@ -209,13 +209,13 @@ export let translations = {
     nl: 'Stap',
   },
   'You finished in': {
-    nl: 'Je bent geeïndigd in',
+    nl: 'You finished in',
   },
   and: {
     nl: 'en',
   },
   'without using any hints!': {
-    nl: 'zonder hints te gebruiken!',
+    nl: 'without using any hints!',
   },
   with: {
     nl: 'met',

@@ -175,31 +175,31 @@ export let translations = {
     nl: 'Stap',
   },
   'You finished in': {
-    nl: 'Je bent geeïndigd in',
+    nl: 'You finished in',
   },
   and: {
     nl: 'en',
   },
   'without using any hints!': {
-    nl: 'zonder hints te gebruiken!',
+    nl: 'without using any hints!',
   },
   with: {
-    nl: 'met',
+    nl: 'with',
   },
   'penalty for using hints!': {
-    nl: 'straf voor het gebruik van hints!',
+    nl: 'penalty for using hints!',
   },
   'Scan the right bar code or scan the number': {
     nl: 'Scan the correct code or fill in the code to continue',
   },
   'Wrong code': {
-    nl: 'Foutieve code',
+    nl: 'Wrong code',
   },
   'please enter bar code': {
-    nl: 'voer de streepjescode in',
+    nl: 'please enter bar code',
   },
   'Camera access denied': {
-    nl: 'Camera toegang geweigerd',
+    nl: 'Camera access denied',
   },
   Submit: {
     nl: 'Verzenden',

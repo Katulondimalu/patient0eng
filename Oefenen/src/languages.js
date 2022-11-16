@@ -175,10 +175,10 @@ export let translations = {
     nl: 'Stap',
   },
   'You finished in': {
-    nl: 'Je bent geeïndigd in',
+    nl: 'You finished in',
   },
   and: {
-    nl: 'en',
+    nl: 'and',
   },
   'without using any hints!': {
     nl: 'zonder hints te gebruiken!',
