@@ -44,7 +44,7 @@ export let translations = {
     nl: 'Skip Instructions',
   },
   Video: {
-    nl: 'geluidsfragment',
+    nl: 'Sound clip',
   },
   Hints: {
     nl: 'Hints',
