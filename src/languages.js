@@ -23,7 +23,7 @@ export let translations = {
     nl: 'Choose a team name',
   },
   'Start Game': {
-    nl: 'Start Spel',
+    nl: 'Start Game',
   },
   'Share game': {
     nl: 'Deel spel',
@@ -173,22 +173,22 @@ export let translations = {
     nl: 'GAME 6',
   },
   game1VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Patient%200%2F001.mp3?alt=media&token=71deccec-ea95-4763-965a-81ff03288c2f',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20Patient%200%20Engels%2Funtitled-001.mp3?alt=media&token=d8c61754-8a78-47ab-a663-d627a7c62e27',
   },
   game2VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Patient%200%2F002.mp3?alt=media&token=0eafc366-02d0-474a-a2c6-2f6a66859879',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20Patient%200%20Engels%2Funtitled-002.mp3?alt=media&token=47797845-3bab-416b-8dba-683a5c53a8cc',
   },
   game3VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Patient%200%2F003.mp3?alt=media&token=3137414c-cb59-4bb7-820a-e63dc77a3264',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20Patient%200%20Engels%2Funtitled-003.mp3?alt=media&token=df42bfb2-4251-4d70-b206-b33a49db6923',
   },
   game4VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Patient%200%2F004.mp3?alt=media&token=59eeff6c-01cb-41f1-bc67-7e6b40468283',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20Patient%200%20Engels%2Funtitled-004.mp3?alt=media&token=0c1e5617-9801-405a-857a-4a19eeb6d994',
   },
   game5VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Patient%200%2F005.mp3?alt=media&token=e5b7cea7-517b-43cc-89cd-152164eb8b25',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20Patient%200%20Engels%2Funtitled-005.mp3?alt=media&token=086c6868-c3d8-43a4-b0d1-01e3677780a6',
   },
   game6VideoUrl: {
-    nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Patient%200%2F006.mp3?alt=media&token=d45936cd-3774-41f5-b43e-5dbbfdbaa278',
+    nl: 'https://firebasestorage.googleapis.com/v0/b/exp-euro-parks-game.appspot.com/o/Filmpjes%20Patient%200%20Engels%2Funtitled-006.mp3?alt=media&token=276dfc6f-61d4-433d-8c4c-6258c1a6ebf2',
   },
   gameeindeVideoUrl: {
     nl: 'https://firebasestorage.googleapis.com/v0/b/de-kist.appspot.com/o/Nederlands%20klein%2Fspel_6%20(720p).mp4?alt=media&token=f59585d7-e76d-4a8a-9585-e4b3aa974d71',
